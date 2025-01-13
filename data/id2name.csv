@@ -1,0 +1,80 @@
+ID,Name
+1,China/Beijing/Beijing Capital
+2,China/Beijing/Beijing Daxing
+3,China/Shanghai/Shanghai Pudong
+4,China/Shanghai/Shanghai Hongqiao
+5,China/Guangdong/Guangzhou Baiyun
+6,China/Guangdong/Shenzhen Bao'an
+7,China/Chongqing/Chongqing Jiangbei
+8,China/Tianjin/Tianjin Binhai
+9,China/Zhejiang/Hangzhou Xiaoshan
+10,China/Jiangsu/Nanjing Lukou
+11,China/Sichuan/Chengdu Shuangliu
+12,China/Shaanxi/Xi'an Xianyang
+13,China/Hubei/Wuhan Tianhe
+14,China/Fujian/Fuzhou Changle
+15,China/Hunan/Changsha Huanghua
+16,China/Henan/Zhengzhou Xinzheng
+17,China/Shandong/Qingdao Liuting
+18,China/Jilin/Changchun Longjia
+19,China/Heilongjiang/Harbin Taiping
+20,China/Shanxi/Taiyuan Wusu
+21,China/Xinjiang/Urumqi Diwopu
+22,China/Inner Mongolia/Hohhot Baita
+23,China/Guangxi/Nanning Wuxu
+24,China/Yunnan/Kunming Changshui
+25,China/Jiangxi/Nanchang Changbei
+26,China/Anhui/Hefei Xinqiao
+27,China/Guizhou/Guiyang Longdongbao
+28,China/Gansu/Lanzhou Zhongchuan
+29,China/Qinghai/Xining Caojiabao
+30,China/Ningxia/Yinchuan Hedong
+31,China/Tibet/Lhasa Gonggar
+32,China/Hainan/Haikou Meilan
+33,China/Hainan/Sanya Phoenix
+34,United States/California/Los Angeles
+35,United States/California/San Francisco
+36,United States/New York/John F. Kennedy
+37,United States/New York/LaGuardia 
+38,United States/Illinois/O'Hare
+39,United States/Illinois/Chicago Midway
+40,United States/Texas/Dallas/Fort Worth
+41,United States/Texas/George Bush Intercontinental 
+42,United States/Georgia/Hartsfield-Jackson Atlanta
+43,United States/Georgia/Savannah/Hilton Head
+44,Japan/Tokyo/Narita
+45,Japan/Tokyo/Haneda 
+46,Japan/Osaka/Kansai
+47,Japan/Osaka/Osaka
+48,Japan/Hokkaido/New Chitose 
+49,Japan/Hokkaido/Kushiro 
+50,France/Ile-de-France/Paris Charles de Gaulle 
+51,France/Ile-de-France/Paris Orly 
+52,Germany/Bavaria/Munich 
+53,Germany/Bavaria/Nuremberg 
+54,Spain/Catalonia/Barcelona-El Prat 
+55,Spain/Catalonia/Girona-Costa Brava 
+56,Italy/Lazio/Leonardo da Vinci-Fiumicino 
+57,Italy/Lazio/Ciampino-G.B. Pastine
+58,United Kingdom/England/London Heathrow 
+59,United Kingdom/England/London Gatwick 
+60,Netherlands/North Holland/AmsterdamSchiphol
+61,Netherlands/North Holland/Rotterdam The Hague 
+62,Austria/Vienna/Vienna
+63,Austria/Lower Austria/Linz 
+64,Greece/Attica/Athens
+65,Greece/Central Greece/Thessaloniki 
+66,Sweden/Stockholm County/Stockholm Arlanda 
+67,Sweden/Skane/Malmo 
+68,Portugal/Lisbon District/Lisbon Portela 
+69,Portugal/Faro District/Faro 
+70,Ireland/County Dublin/Dublin 
+71,Ireland/County Cork/Cork 
+72,Belgium/Flanders/Brussels 
+73,Belgium/Walloon Region/Brussels South Charleroi 
+74,Switzerland/Zurich/Zurich 
+75,Switzerland/Geneva/Geneva 
+76,Norway/Oslo/Oslo Gardermoen 
+77,Norway/Bergen/Bergen 
+78,Finland/Uusimaa/Helsinki-Vantaa 
+79,Finland/Lapland/Rovaniemi 
