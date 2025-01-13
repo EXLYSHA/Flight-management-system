@@ -5,7 +5,7 @@
 
 如果代码帮到了你，请留下一颗星星（可怜）
 
-请注意：
+### 请注意：
 
 1.两个文件的读取路径我都已经删掉，如打算运行，请确保文件路径正确无误。
 
@@ -18,7 +18,7 @@ My data structure course is taught by Professor Jiang Hongxun from the School of
 
 If this code helped you, please leave a star (pretty please)
 
-Please note:
+### Please note:
 
 1.I have removed the file reading paths from both files. If you plan to run it, make sure the file paths are correct.
 
